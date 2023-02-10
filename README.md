@@ -1,22 +1,21 @@
 # PythonBootcamp
 Exercise and solution programs for python training.
 
-Credit: Author, GeekforGeeks, StackOverflow.
+**Credit:** Author, GeekforGeeks, StackOverflow.
 
-Folder structure:
-Session I  ---
-             |- Exercises
-             |- Solutions
-Session II ---
-             |- Solutions
+**Folder structure:**
+* Session I  
+  - Exercises
+  - Solutions
+* Session II
+  - Solutions
              
-
 For Session I - One has to just write the logic in designated space mentioned in files in Exercises folder, rest of the structure is in place.
 To see the solutions refer to Solutions folder : 
 Session II - I have provided solutions/code directly - as almost everything to be written from scratch.
 
 
-Session I - list of Programs:
+**Session I - list of Programs:**
 1.  Swap 2 variables 
 2.  Square root of a number
 3.  BMI calculator (Formula : Weight/Height^2 – weight in kg and height in m)
@@ -38,7 +37,7 @@ Session I - list of Programs:
 19. Check if number is prime
 
 
-Session II - List of Programs:
+**Session II - List of Programs:**
 1.  Simple functions: add, substract, multiply, divide 
 2.  Recursive functions program: factorial
 3.  Recursive functions program: fibonacci
